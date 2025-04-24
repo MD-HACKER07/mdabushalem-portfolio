@@ -21,7 +21,7 @@ A modern portfolio website built with Next.js and styled with Tailwind CSS, desi
 
 1. Clone the repository
 ```bash
-git clone https://github.com/mdabushalem/mdabushalem.github.io.git
+git clone https://github.com/MD-HACKER07/mdabushalem-portfolio.git
 ```
 
 2. Install dependencies
@@ -60,9 +60,9 @@ git push origin main
 ## Contact
 
 - Email: mdabushalem615@gmail.com
-- LinkedIn: [linkedin.com/in/mdabushalem](https://linkedin.com/in/mdabushalem)
-- GitHub: [github.com/mdabushalem](https://github.com/mdabushalem)
-- Instagram: [instagram.com/mdabushalem](https://instagram.com/mdabushalem)
+- LinkedIn: [https://linkedin.com/in/mdabushalem](https://in.linkedin.com/in/md-abu-shalem-alam-726a93292))
+- GitHub:[ [github.com/mdabushalem](https://github.com/mdabushalem)](https://github.com/MD-HACKER07/mdabushalem-portfolio.git)
+- Instagram: [[instagram.com/mdabushalem](https://instagram.com/mdabushalem)](https://www.instagram.com/iammd_18_)
 
 # Web simulation of UbuntuOS
 
